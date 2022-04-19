@@ -385,6 +385,7 @@ Stripe Styles
 
 .submenu.show {
   display: block;
+  transition: all .3s ease-in-out;
 }
 
 .submenu-center {

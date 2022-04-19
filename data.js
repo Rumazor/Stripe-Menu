@@ -12,7 +12,7 @@ const sublinks = [
     links: [
       { label: 'plugins', icon: 'fas fa-book', url: 'products.html' },
       { label: 'libraries', icon: 'fas fa-book', url: 'products.html' },
-      { label: 'plugins', icon: 'fas fa-book', url: 'products.html' },
+      { label: 'frameworks', icon: 'fas fa-book', url: 'products.html' },
       { label: 'billing', icon: 'fas fa-book', url: 'products.html' },
     ],
   },
